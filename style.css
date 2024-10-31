@@ -1,9 +1,13 @@
 h1 {
     color: #00ffa2;
+
 }
 h2 {
     color: #00e5ff;
 }
 h3 {
     color: #9d00ff;
+}
+h1, h2, h3 {
+    background-color: darkblue;
 }
