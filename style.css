@@ -11,3 +11,9 @@ h3 {
 h1, h2, h3 {
     background-color: darkblue;
 }
+p {
+    box-shadow: #0e6c07 2px 2px 2px;
+}
+div {
+    font-style: italic;
+}
