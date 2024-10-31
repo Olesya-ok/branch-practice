@@ -17,3 +17,12 @@ p {
 div {
     font-style: italic;
 }
+li {
+    font-weight: bold;
+    text-shadow: #232323 2px 2px 2px;
+    list-style: none;
+}
+
+
+
+
